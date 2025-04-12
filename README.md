@@ -1,4 +1,3 @@
-Author: Carmen Park
   This project started after my first year at UO. I was taking third year Mandarin Chinese classes introductory programming classes in python. I felt inspired by a teacher Phil Colbert to write a program that you could resond to from the command line, and I wanted a way to practice my tones and vocabulary. This is an incomplete project, but I hoped to make a web ui and implement some level of a Mandarin word2vec to help individuals practice grammar in the future as well. 
     you might need some level of a python environment to be able to use this application. It has the functionality of appending words, given their part of speech, tone(s), pinyin, and english meaning, to a csv file. You are also able to practice those words. given their morphemes, guess their english meaning, or their tones and  pinyin. 
     
