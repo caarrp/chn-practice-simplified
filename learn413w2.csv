@@ -1,0 +1,27 @@
+morpheme,grammar,unicode,pinyin,tone,eng_sig,score
+针对,动词,zhēnduì,"['zhen', 'dui']","[1, 4]","['direct against', 'aim', 'countertargetfocus on']","[0.0, 1.0]"
+针对,介词,zhēnduì,"['zhen', 'dui']","[1, 4]","['in light of', 'in accordance', 'connected with']",[0.0]
+随机,副词,suíjī,"['sui', 'ji']","[2, 1]","['according to circumstance', 'according to situation', 'pragmatic']",[0.0]
+随机,形容词,suíjī,"['sui', 'ji']","[2, 1]","['random', 'stochastic', 'pragmatic']",[0.0]
+调查,动词,diàochá,"['diao', 'cha']","[4, 2]","['investigate', 'inquire', 'look into', 'survey', 'inquiry']",[0.0]
+显示,动词,xiǎnshì,"['xian', 'shi']","[3, 4]","['show', 'display', 'demonstrate', 'manifest']","[0.0, 0.0]"
+显示,名词,xiǎnshì,"['xian', 'shi']","[3, 4]","['show', 'indication', 'demonstration']",[0.0]
+地球村,短语,dìqíucūn,"['di', 'qiu', 'cun']","[4, 2, 1]",['global village'],[0.0]
+时尚,名词,shíshàng,"['shi', 'shang']","[2, 4]","['fashion', 'fad']","[0.0, 1.0]"
+时尚,形容词,shíshàng,"['shi', 'shang']","[2, 4]","['fashionable', 'trendy']",[0.0]
+并非,副词,bìngfēi,"['bing', 'fei']","[4, 1]","['really isnt', 'isnt really', 'but not']","[0.0, 1.0]"
+打造,动词,dǎzào,"['da', 'zao']","[3, 4]","['create', 'build', 'develop', 'forge']",[0.0]
+名片,名词,míngpiàn,"['ming', 'pian']","[2, 4]","['business card', 'name card', 'card']","[0.0, 1.0]"
+单线,名词,dānxiàn,"['dan', 'xian']","[1, 4]","['single line', 'one way', 'single track']",[0.0]
+徐徐,副词,xúxú,"['xu', 'xu']","[2, 2]","['slowly', 'gently']","[0.0, 1.0]"
+蓝图,名词,lántú,"['lan', 'tu']","[2, 2]",['blueprint'],"[0.0, 0.0]"
+轨道,名词,guǐdào,"['gui', 'dao']","[3, 4]","['orbit', 'trajectory', 'track', 'proper course']",[0.0]
+展开,动词,zhǎnkāi,"['zhan', 'kai']","[3, 1]","['carry out', 'unfold', 'in full swing', 'in full swing', 'launch', 'open up']","[0.0, 0.0, 0.0, 1.0, 1.0, 1.0]"
+首选,动词,shǒuxuǎn,"['shou', 'xuan']","[3, 3]","['to chose one', 'prefer']","[0.0, 0.0, 0.0, 1.0, 1.0, 1.0]"
+首选,名词,shǒuxuǎn,"['shou', 'xuan']","[3, 3]","['first choice', 'preference', 'premium']",[0.0]
+促进,动词,cùjìn,"['cu', 'jin']","[4, 4]","['promote', 'advance', 'accelerate', 'boost', 'enhance']","[0.0, 0.0, 0.0, 1.0, 1.0, 1.0]"
+截至,动词,jiézhì,"['jie', 'zhi']","[2, 4]","['up to', 'by a time', 'by', 'so far']","[0.0, 0.0, 0.0, 1.0, 1.0, 1.0]"
+累计,动词,lěijì,"['lei', 'ji']","[3, 4]","['in total', 'add up', 'accumulated', 'total']","[0.0, 0.0, 0.0, 1.0, 1.0, 1.0]"
+运行,动词,yùnxíng,"['yun', 'xing']","[4, 2]","['move', 'be in motion', 'operate', 'function', 'run computer']","[0.0, 0.0, 0.0, 1.0, 1.0, 1.0]"
+里程,名词,lǐchéng,"['li', 'cheng']","[3, 2]","['mileage', 'course']",[0.0]
+条件,名词,tiáojiàn,"['tiao', 'jian']","[2, 4]","['condition', 'term', 'circumstance', 'situation']",[0.0]

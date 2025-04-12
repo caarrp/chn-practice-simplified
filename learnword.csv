@@ -1,0 +1,212 @@
+morpheme,grammar,unicode,pinyin,tone,eng_sig,score
+喜欢,动词,xǐhuān,"['xi', 'huan']","[3, 1]","['like', 'to like']","[0.0, 1.0]"
+老师,名词,lǎoshī,"['lao', 'shi']","[3, 1]",['teacher'],"[0.0, 1.0, 1.0]"
+容易,形容词,róngyì ,"['rong', 'yi']","[2, 4]","['easy', 'likely', 'liable']",[0.0]
+现金,名词,xiànjīn,"['xian', 'jin']","[4, 1]","['cash', 'available money']","[0.0, 1.0, 1.0, 1.0]"
+信用卡,名词,xìnyòngkǎ,"['xin', 'yong', 'ka']","[4, 4, 3]",['credit card'],[0.0]
+眼睛,名词,yǎnjing,"['yan', 'jing']","[3, 5]",['eye'],"[0.0, 1.0, 1.0, 1.0, 1.0, 0.0]"
+眼镜,名词,yǎnjìng,"['yan', 'jing']","[3, 4]","['glasses', 'spectacles']","[0.0, 1.0]"
+日全食,名词,rìquánshí,"['ri', 'quan', 'shi']","[4, 2, 2]","['total solar eclipse', 'solar eclipse']","[0.0, 1.0]"
+根据,名词,gēnjù,"['gen', 'ju']","[1, 4]","['basis', 'grounds', 'foundation']","[0.0, 1.0]"
+根据,代词,gēnjù,"['gen', 'ju']","[1, 4]","['according to', 'on the basis of', 'in line with']",[0.0]
+危险,动词,wēixiǎn,"['wei', 'xian']","[1, 3]","['dangerous', 'perilous']","[0.0, 0.0, 1.0]"
+缺乏,动词,quēfá,"['que', 'fa']","[1, 2]","['to be short of', 'to lack']","[0.0, 1.0, 0.0]"
+大约,副词,dàyuē,"['da', 'yue']","[4, 1]","['approximately', 'about']","[0.0, 1.0, 0.0]"
+思考,动词,sīkǎo,"['si', 'kao']","[1, 3]","['to think deeply', 'to reflect on', 'to meditate', 'to ponder over']","[0.0, 0.0]"
+计价,动词,jìjià,"['ji', 'jia']","[4, 4]","['to evaluate', 'to valuate']","[0.0, 0.0, 0.0]"
+瞌睡,动词,kēshuì,"['ke', 'shui']","[1, 4]","['to feel sleepy', 'drowsy', 'to nap']","[0.0, 0.0]"
+其实,副词,qíshí,"['qi', 'shi']","[2, 2]","['actually', 'in fact', 'as a matter of fact']",[0.0]
+心脏,名词,xīnzàng,"['xin', 'zang']","[1, 4]",['heart'],"[0.0, 1.0]"
+内脏,名词,nèizàng,"['nei', 'zang']","[4, 4]","['internal organs', 'viscera']","[0.0, 0.0]"
+以前,名词,yǐqián,"['yi', 'qian']","[3, 2]","['before', 'formerly', 'previously']","[0.0, 1.0]"
+计划,名词,jìhuà,"['ji', 'hua']","[4, 4]","['plan', 'project', 'program']","[0.0, 0.0]"
+计划,动词,jìhuà,"['ji', 'hua']","[4, 4]","['map out', 'to plan']",[0.0]
+风险,名词,fēngxiǎn,"['feng', 'xian']","[1, 3]","['risk', 'hazard']","[0.0, 0.0, 1.0, 0.0]"
+肉眼,名词,ròuyǎn,"['rou', 'yan']","[4, 3]",['naked eye'],"[0.0, 0.0, 1.0, 1.0]"
+肉体,名词,ròutǐ,"['rou', 'ti']","[4, 3]","['human body', 'physical body', 'flesh']","[0.0, 0.0, 1.0, 1.0]"
+地球,名词,dìqíu,"['di', 'qiu']","[4, 2]","['the earth', 'the globe']","[0.0, 0.0]"
+细胞,名词,xìbāo,"['xi', 'bao']","[4, 1]",['cell'],"[0.0, 1.0]"
+泡,名词,pào,['pao'],[4],['bubble'],"[0.0, 1.0, 0.0, 1.0]"
+泡,动词,pào,['pao'],[4],"['steep', 'soak']",[0.0]
+黄体期,名词,huángtǐqī,"['huang', 'ti', 'qi']","[2, 3, 1]",['luteal phase'],[0.0]
+师,名词,shī,['shi'],[1],"['teacher', 'tutor', 'master', 'division']","[0.0, 1.0, 1.0]"
+师,动词,shī,['shi'],[1],"['learn', 'imitate']","[0.0, 1.0]"
+厨师,名词,chúshī,"['chu', 'shi']","[2, 1]","['cook', 'chef']","[0.0, 1.0, 1.0]"
+碱性,名词,jiǎnxìng,"['jian', 'xing']","[3, 4]","['basicity', 'alkalinity']",[0.0]
+离子,名词,lízǐ,"['li', 'zi']","[2, 3]",['ion'],"[0.0, 1.0]"
+酸性,名词,suānxìng,"['suan', 'xing']","[1, 4]",['acidity'],"[0.0, 1.0]"
+蛋白,名词,dànbái,"['dan', 'bai']","[4, 2]","['egg white', 'protien']","[0.0, 1.0, 1.0]"
+书面语,动词,shūmiànyǔ,"['shu', 'mian', 'yu']","[1, 4, 3]",['written language'],"[0.0, 1.0]"
+口语,名词,kǒuyǔ,"['kou', 'yu']","[3, 3]",['spoken language'],"[0.0, 1.0]"
+能力,名词,nénglì,"['neng', 'li']","[2, 4]","['ability', 'capacity', 'capability']",[0.0]
+强,形容词,qiáng,['qiang'],[2],"['strong', 'powerful', 'superior']",[0.0]
+强,副词,qiáng,['qiang'],[2],"['by force', 'slighly more than']","[0.0, 0.0]"
+强,动词,qiáng,['qiang'],[2],"['strengthen', 'make strong']",[0.0]
+弱,形容词,ruò,['ruo'],[4],"['weak', 'feeble', 'inferior']","[0.0, 1.0, 1.0, 1.0]"
+柔心弱骨,成语,róuxīnruǒgù,"['rou', 'xin', 'ruo', 'gu']","[2, 1, 3, 4]","['soft heart and weak bone', 'soft', 'mild', 'meek']","[0.0, 0.0]"
+大夫,名词,dàifu,"['dai', 'fu']","[4, 5]","['doctor', 'physician']","[0.0, 1.0]"
+亭亭玉立,成语,tíngtíngyùlì,"['ting', 'ting', 'yu', 'li']","[2, 2, 4, 4]","['beauty and grace of fem', 'slender elegance of fem', 'tall and straight of tree']","[0.0, 0.0, 0.0, 0.0, 0.0]"
+表姐,名词,biǎojiě,"['biao', 'jie']","[3, 3]","['fem cousin', 'older fem cousin', 'not fathers brothers daughter']",[0.0]
+表哥,名词,biǎogē,"['biao', 'ge']","[3, 1]","['masc cousin', 'older masc cousin', 'not fathers brothers son']","[0.0, 0.0, 0.0]"
+酒保,名词,jǐubǎo,"['jiu', 'bao']","[3, 3]",['bartender'],[0.0]
+尽管,副词,jǐnguǎn,"['jin', 'guan']","[3, 3]","['to not hesitate', 'feel free to', 'without hesitating']","[0.0, 0.0, 0.0]"
+尽管,连词,jǐnguǎn,"['jin', 'guan']","[3, 3]","['though', 'even though', 'despite']",[0.0]
+撒娇,动词,sājiāo,"['sa', 'jiao']","[1, 1]","['to act coquettishly', 'to act spoiled', 'to throw a tantrum']",[0.0]
+应该,助动词,yīnggāi,"['ying', 'gai']","[1, 1]","['should', 'ought to', 'must']",[0.0]
+行,名词,xíng,['xing'],[2],"['behavior', 'conduct']","[0.0, 1.0]"
+行,动词,xíng,['xing'],[2],"['to go', 'to walk', 'to travel']","[0.0, 1.0]"
+行,副词,xíng,['xing'],[2],['soon'],[0.0]
+行,形容词,xíng,['xing'],[2],"['makeshift', 'temporary']","[0.0, 1.0, 1.0]"
+梦想,名词,mèngxiǎng,"['meng', 'xiang']","[4, 3]","['vain hope', 'wishful thinking', 'fond dream']","[0.0, 0.0]"
+梦想,动词,mèngxiǎng,"['meng', 'xiang']","[4, 3]","['vainly hope', 'dream of']",[0.0]
+哥哥,名词,gēge,"['ge', 'ge']","[1, 5]",['older brother'],"[0.0, 1.0]"
+吸引,动词,xīyǐn,"['xi', 'yin']","[1, 3]","['to attract', 'to fascinate', 'to appeal to']",[0.0]
+垦丁,名词,kěndīng,"['ken', 'ding']","[3, 1]",['taiwan national park'],[0.0]
+公告,名词,gōnggào,"['gong', 'gao']","[1, 4]","['public notice', 'announcement', 'publication']","[0.0, 1.0, 1.0]"
+公告,动词,gōnggào,"['gong', 'gao']","[1, 4]","['to post', 'to declare', 'announce']",[0.0]
+随便,动词,suíbiàn,"['sui', 'bian']","[2, 4]",['do as one pleases'],"[0.0, 0.0, 1.0, 1.0]"
+随便,形容词,suíbiàn,"['sui', 'bian']","[2, 4]","['casual', 'careless', 'arbitrary', 'random', 'informal']","[0.0, 0.0]"
+随便,连词,suíbiàn,"['sui', 'bian']","[2, 4]","['anyhow', 'any']","[0.0, 0.0]"
+种,动词,zhòng,['zhong'],[4],"['to grow plants', 'to plant', 'to cultivate']","[0.0, 1.0]"
+蔬菜,名词,shūcài,"['shu', 'cai']","[1, 4]","['vegetable', 'vegetables']","[0.0, 1.0, 0.0]"
+农夫,名词,nóngfū,"['nong', 'fu']","[2, 1]",['farmer'],"[0.0, 1.0]"
+农药,名词,nóngyào,"['nong', 'yao']","[2, 4]","['pesticide', 'agricultural chemical']",[0.0]
+天然,形容词,tiānrán,"['tian', 'ran']","[1, 2]",['natural'],[0.0]
+地位,名词,dìwèi,"['di', 'wei']","[4, 4]","['status', 'position', 'standing']","[0.0, 1.0, 1.0, 1.0]"
+观光,动词,guānguāng,"['guan', 'guang']","[1, 1]","['go sightseeing', 'to visit', 'tour']","[0.0, 0.0]"
+亲,名词,qīn,['qin'],[1],"['parent', 'relative', 'marraige']",[0.0]
+亲,动词,qīn,['qin'],[1],"['kiss', 'in favor of']","[0.0, 0.0, 1.0, 0.0]"
+亲,形容词,qīn,['qin'],[1],"['close', 'intimate', 'related']","[0.0, 0.0, 1.0, 1.0]"
+过世,动词,guòshì,"['guo', 'shi']","[4, 4]","['to pass away', 'to die', 'die']","[0.0, 1.0]"
+孤单,形容词,gūdān,"['gu', 'dan']","[1, 1]","['alone', 'lonely', 'weak']","[0.0, 1.0, 1.0, 1.0, 1.0, 1.0]"
+洗澡,动词,xǐzǎo,"['xi', 'zao']","[3, 3]","['to take a bath', 'to bathe', 'to take a shower']","[0.0, 0.0]"
+分手,动词,fēnshǒu,"['fen', 'shou']","[1, 3]","['to say goodbye', 'to break up', 'break up']",[0.0]
+十分,形容词,shífēn,"['shi', 'fen']","[2, 1]","['100 percent', 'absolute', 'absolutely', 'entirely']",[0.0]
+十分,副词,shífēn,"['shi', 'fen']","[2, 1]","['very', 'fully', 'utterly', 'extremely', 'absolutely']",[0.0]
+接受,动词,jiēshòu,"['jie', 'shou']","[1, 4]","['accept', 'to accept']","[0.0, 0.0]"
+复习,动词,fùxí,"['fu', 'xi']","[4, 2]","['review', 'to review', 'revise', 'to revise']",[0.0]
+举重,名词,jǔzhòng,"['ju', 'zhong']","[3, 4]","['to lift weights', 'weight lifting', 'lift weights']",[0.0]
+由于,介词,yóuyú,"['you', 'yu']","[2, 2]","['due to', 'thanks to', 'because of', 'as a result of']",[0.0]
+由于,连词,yóuyú,"['you', 'yu']","[2, 2]","['because', 'since']",[0.0]
+观点,名词,guāndiǎn,"['guan', 'dian']","[1, 3]","['perspective', 'point of view', 'viewpoint', 'standpoint']",[0.0]
+执行,动词,zhíxíng,"['zhi', 'xing']","[2, 2]","['to carry out', 'carry out', 'execute', 'implement', 'to execute', 'to implement']",[0.0]
+给予,动词,jǐyǔ,"['ji', 'yu']","[3, 3]","['to give', 'give', 'to offer', 'render']",[0.0]
+反思,动词,fǎnsī,"['fan', 'si']","[3, 1]","['to review', 'to reflect', 'reflect', 'introspect']",[0.0]
+世纪,名词,shìjì,"['shi', 'ji']","[4, 4]",['century'],"[0.0, 0.0]"
+羡慕,动词,xiànmù,"['xian', 'mu']","[4, 4]","['admire', 'envy', 'to admire', 'to envy']",[0.0]
+白水,名词,báishuǐ,"['bai', 'shui']","[2, 3]","['clean water', 'plain water']","[0.0, 0.0]"
+特性,名词,tèxìng,"['te', 'xing']","[4, 4]","['specific property', 'characteristic', 'property']",[0.0]
+产品,名词,chǎnpǐn,"['chan', 'pin']","[3, 3]","['product', 'products', 'produce', 'goods', 'merchandise']","[0.0, 1.0]"
+成分,名词,chéngfèn,"['cheng', 'fen']","[2, 4]","['composition', 'component', 'part', 'ingredient', 'element', 'social status']","[0.0, 0.0]"
+耳环,名词,ěrhuán,"['er', 'huan']","[3, 2]","['earrings', 'earring']","[0.0, 1.0, 1.0]"
+耳压,名词,ěryā,"['er', 'ya']","[3, 1]",['ear pressure'],[0.0]
+居然,副词,jūrán,"['ju', 'ran']","[1, 2]","['unexpectedly', 'actually', 'to ones surprise', 'to go as far as to']","[0.0, 1.0, 0.0, 0.0]"
+想象,名词,xiǎngxiàng,"['xiang', 'xiang']","[3, 4]",['imagination'],[0.0]
+想象,动词,xiǎngxiàng,"['xiang', 'xiang']","[3, 4]","['imagine', 'to imagine', 'visualize', 'to visualize', 'to envision']","[0.0, 1.0, 1.0, 1.0]"
+落伍,动词,luòwǔ,"['luo', 'wu']","[4, 3]","['fall behind', 'drop out', 'to fall behind', 'straggle', 'to be outdated']","[0.0, 1.0, 1.0]"
+步步高升,成语,bùbùgāoshēng,"['bu', 'bu', 'gao', 'sheng']","[4, 4, 1, 1]","['to climb step by step', 'to rise steadily', 'up and up', 'onward and upward']","[0.0, 1.0]"
+之类,成语,zhīlèi,"['zhi', 'lei']","[1, 4]","['and so on', 'and such', 'or something', 'like that']","[0.0, 0.0, 0.0, 0.0]"
+技巧,名词,jìqiǎo,"['ji', 'qiao']","[4, 3]",['skill'],[0.0]
+动词,名词,dòngcí,"['dong', 'ci']","[4, 2]",['verb'],"[0.0, 1.0]"
+保持,动词,bǎochí,"['bao', 'chi']","[3, 2]","['to maintain', 'to preserve', 'to keep', 'preserve', 'keep']",[0.0]
+出口,动词,chūkǒu,"['chu', 'kou']","[1, 3]","['to speak', 'speak', 'utter', 'to export', 'export']",[0.0]
+出口,名词,chūkǒu,"['chu', 'kou']","[1, 3]","['exit', 'an exit']","[0.0, 1.0]"
+星巴克,专名词,xīngbākè,"['xing', 'ba', 'ke']","[1, 1, 4]","['starbucks', 'starbucks']","[0.0, 1.0]"
+草莓,名词,cǎoméi,"['cao', 'mei']","[3, 2]",['strawberry'],[0.0]
+保时捷,专名词,bǎoshíjié,"['bao', 'shi', 'jie']","[3, 2, 2]","['porshe', 'porsche']","[0.0, 0.0]"
+设计,动词,shèjì,"['she', 'ji']","[4, 4]","['design', 'to design', 'plan', 'to plan']","[0.0, 1.0]"
+概念,名词,gàiniàn,"['gai', 'nian']","[4, 4]","['concept', 'notion', 'idea']","[0.0, 0.0]"
+代表,名词,dàibiǎo,"['dai', 'biao']","[4, 3]","['deputy', 'representative', 'delegate']",[0.0]
+代表,动词,dàibiǎo,"['dai', 'biao']","[4, 3]","['represent', 'to represent', 'to stand for']","[0.0, 1.0]"
+免费,动词,miǎnfèi,"['mian', 'fei']","[3, 4]","['free', 'free of charge', 'gratis', 'complimentary']",[0.0]
+厕所,名词,cèsuǒ,"['ce', 'suo']","[4, 3]","['bathroom', 'toilet', 'restroom']",[0.0]
+扶梯,名词,fútī,"['fu', 'ti']","[2, 1]","['staircase', 'ladder', 'escalator']",[0.0]
+电梯,名词,diàntī,"['dian', 'ti']","[4, 1]","['elevator', 'lift']",[0.0]
+服务台,动词,fúwùtái,"['fu', 'wu', 'tai']","[2, 4, 2]","['service desk', 'information desk', 'reception desk']",[0.0]
+售票口,名词,shòupiàokǒu,"['shou', 'piao', 'kou']","[4, 4, 3]","['ticket window', 'ticket desk', 'selling ticket place']","[0.0, 0.0]"
+售票,动词,shòupiào,"['shou', 'piao']","[4, 4]","['to sell tickets', 'sell tickets']",[0.0]
+无障碍,短语,wúzhàngài,"['wu', 'zhang', 'ai']","[2, 4, 4]","['barrier free', 'accessible']","[0.0, 0.0]"
+参观,动词,cānguān,"['can', 'guan']","[1, 1]","['to visit', 'visit', 'look around', 'to tour']","[0.0, 0.0]"
+使用,动词,shǐyòng,"['shi', 'yong']","[3, 4]","['to use', 'use', 'employ', 'apply', 'to make use of', 'to employ']",[0.0]
+服务,动词,fúwù,"['fu', 'wu']","[2, 4]","['to service', 'to serve', 'serve', 'service', 'to give service to']",[0.0]
+漫步,动词,mànbù,"['man', 'bu']","[4, 4]","['stroll', 'to stroll', 'to roam', 'roam', 'ramble']",[0.0]
+世外桃源,成语,shìwàitáoyuán,"['shi', 'wai', 'tao', 'yuan']","[4, 4, 2, 2]","['utopia', 'animal land', 'land of peach plossoms', 'shangri la']",[0.0]
+水母,名词,shuǐmǔ,"['shui', 'mu']","[3, 3]","['jellyfish', 'medusa']","[0.0, 0.0]"
+互动,动词,hùdòng,"['hu', 'dong']","[4, 4]","['to interact', 'interact', 'interactive']","[0.0, 0.0]"
+展区,名词,zhǎnqū,"['zhan', 'qu']","[3, 1]","['exhibit', 'display zone', 'section']","[0.0, 0.0]"
+空间,名词,kōngjiān,"['kong', 'jian']","[1, 1]","['space', 'room', 'outer space', 'dimensions']",[0.0]
+平行,形容词,píngxíng,"['ping', 'xing']","[2, 2]","['parallel', 'of equal rank', 'equal footing', 'simultaneous']",[0.0]
+世界,名词,shìjiè,"['shi', 'jie']","[4, 4]","['all over the world', 'the world', 'world', 'universe']","[0.0, 1.0]"
+科技,名词,kējì,"['ke', 'ji']","[1, 4]","['science and technology', 'technology', 'tech']","[0.0, 1.0]"
+雨林,名词,yǔlín,"['yu', 'lin']","[3, 2]",['rainforest'],[0.0]
+探险,动词,tànxiǎn,"['tan', 'xian']","[4, 3]","['to explore', 'explore', 'adventure']",[0.0]
+美妙,形容词,měimiào,"['mei', 'miao']","[3, 4]","['beautiful', 'splendid', 'wonderful', 'fabulous']",[0.0]
+企鹅,名词,qíè,"['qi', 'e']","[2, 4]","['penguin', 'penguins']",[0.0]
+探索,动词,tànsuǒ,"['tan', 'suo']","[4, 3]","['to probe', 'probe', 'to explore', 'explore']",[0.0]
+关心,动词,guānxīn,"['guan', 'xin']","[1, 1]","['concerned about', 'to care', 'care', 'care for', 'concerned']","[0.0, 1.0]"
+照顾,动词,zhàogu,"['zhao', 'gu']","[4, 5]","['give consideration to', 'to look after', 'look after', 'care for', 'take care of', 'attend to']",[0.0]
+品种,名词,pǐnzhǒng,"['pin', 'zhong']","[3, 3]","['breed', 'strain', 'variety', 'assortment']",[0.0]
+种类,名词,zhǒnglèi,"['zhong', 'lei']","[3, 4]","['kind', 'type', 'variety', 'genus', 'species']",[0.0]
+接近,动词,jiējìn,"['jie', 'jin']","[1, 4]","['close to', 'near', 'to approach', 'to get close to']","[0.0, 1.0, 0.0]"
+西瓜,名词,xīguā,"['xi', 'gua']","[1, 1]",['watermelon'],"[0.0, 1.0]"
+皮肤,名词,pífū,"['pi', 'fu']","[2, 1]",['skin'],"[0.0, 1.0]"
+皮肤,形容词,pífū,"['pi', 'fu']","[2, 1]","['superficial', 'surface', 'surface level']",[0.0]
+研究,动词,yánjīu,"['yan', 'jiu']","[2, 1]","['study', 'to study', 'research', 'to research']","[0.0, 0.0]"
+另外,副词,lìngwài,"['ling', 'wai']","[4, 4]","['in addition', 'besides', 'in place of']",[0.0]
+另外,连词,lìngwài,"['ling', 'wai']","[4, 4]","['in addition', 'besides', 'additionally']","[0.0, 0.0]"
+另外,代词,lìngwài,"['ling', 'wai']","[4, 4]","['different', 'other']",[0.0]
+孔庙,名词,kǒngmiào,"['kong', 'miao']","[3, 4]",['confucian temple'],[0.0]
+尽量,副词,jǐnliàng,"['jin', 'liang']","[3, 4]","['as much as possible', 'as far as possible', 'to the best of ones ability', 'to the greatest extent']",[0.0]
+恐怕,动词,kǒngpà,"['kong', 'pa']","[3, 4]","['to fear', 'fear', 'to dread', 'be afraid of']",[0.0]
+恐怕,副词,kǒngpà,"['kong', 'pa']","[3, 4]","['for fear of', 'perhaps', 'maybe', 'probably']","[0.0, 0.0]"
+稳定,形容词,wěndìng,"['wen', 'ding']","[3, 4]","['stable', 'steady', 'consistent']",[0.0]
+稳定,动词,wěndìng,"['wen', 'ding']","[3, 4]","['to stabilize', 'stabilize', 'steady', 'to pacify']",[0.0]
+重视,动词,zhòngshì,"['zhong', 'shi']","[4, 4]","['to value', 'value', 'to attach importance to', 'pay attention to', 'take seriously']",[0.0]
+大概,形容词,dàgài,"['da', 'gai']","[4, 4]","['general', 'rough', 'approximate', 'about']",[0.0]
+大概,副词,dàgài,"['da', 'gai']","[4, 4]","['generally', 'briefly', 'probably', 'most likely']",[0.0]
+大概,名词,dàgài,"['da', 'gai']","[4, 4]","['general idea', 'broad outline', 'broud idea', 'general outline']",[0.0]
+利润,名词,lìrùn,"['li', 'run']","[4, 4]","['profit', 'profits']",[0.0]
+对待,动词,duìdài,"['dui', 'dai']","[4, 4]","['treat', 'to treat', 'to approach', 'approach', 'to handle', 'handle', 'treatment']","[0.0, 1.0, 1.0]"
+友善,形容词,yǒushàn,"['you', 'shan']","[3, 4]","['friendly', 'amicable', 'warm']","[0.0, 0.0]"
+联系,名词,liánxì,"['lian', 'xi']","[2, 4]","['contact', 'touch', 'connection', 'relations', 'contacts']",[0.0]
+联系,动词,liánxì,"['lian', 'xi']","[2, 4]","['arrange', 'get in touch with', 'to arrange', 'to integrate']","[0.0, 0.0]"
+愉快,形容词,yúkuài,"['yu', 'kuai']","[2, 4]","['happy', 'joyful', 'cheerful', 'pleasant', 'cheery']",[0.0]
+顺利,形容词,shùnlì,"['shun', 'li']","[4, 4]","['smooth', 'smoothly', 'sucsessful']",[0.0]
+制作,动词,zhìzuò,"['zhi', 'zuo']","[4, 4]","['to make', 'to manufacture', 'make', 'manufacture', 'produce']",[0.0]
+头帕,名词,tóupà,"['tou', 'pa']","[2, 4]","['scarf', 'kercheif', 'headscarf']",[0.0]
+木头,名词,mùtou,"['mu', 'tou']","[4, 5]","['wood', 'log', 'timber', 'wooden', 'blockhead']",[0.0]
+木头木脑,成语,mùtóumùnǎo,"['mu', 'tou', 'mu', 'nao']","[4, 2, 4, 3]","['blockhead', 'wooden headed', 'slow', 'dumb', 'dull witted']",[0.0]
+永远,副词,yǒngyuǎn,"['yong', 'yuan']","[3, 3]","['always', 'forever', 'ever']",[0.0]
+发生,动词,fāshēng,"['fa', 'sheng']","[1, 1]","['to happen', 'happen', 'to occur', 'take place', 'occur']","[0.0, 1.0]"
+土豆,名词,tǔdòu,"['tu', 'dou']","[3, 4]","['potato', 'white potato', 'peanut']",[0.0]
+丝绸,名词,sīchóu,"['si', 'chou']","[1, 2]","['silk', 'silk cloth']",[0.0]
+指南针,名词,zhǐnánzhēn,"['zhi', 'nan', 'zhen']","[3, 2, 1]",['compass'],"[0.0, 1.0]"
+火药,名词,huǒyào,"['huo', 'yao']","[3, 4]","['gunpowder', 'gun powder']","[0.0, 1.0]"
+造纸,动词,zàozhǐ,"['zao', 'zhi']","[4, 3]","['papermaking', 'paper making']","[0.0, 1.0]"
+常态,名词,chángtài,"['chang', 'tai']","[2, 4]","['normal state', 'normality', 'normal behaviour', 'normal']","[0.0, 1.0]"
+一马当先,成语,yīmǎdāngxiān,"['yi', 'ma', 'dang', 'xian']","[1, 3, 1, 1]","['gallop ahead', 'take the lead', 'forefront']",[0.0]
+针对,动词,zhēnduì,"['zhen', 'dui']","[1, 4]","['direct against', 'aim', 'countertargetfocus on']","[0.0, 1.0]"
+针对,介词,zhēnduì,"['zhen', 'dui']","[1, 4]","['in light of', 'in accordance', 'connected with']",[0.0]
+随机,副词,suíjī,"['sui', 'ji']","[2, 1]","['according to circumstance', 'according to situation', 'pragmatic']",[0.0]
+随机,形容词,suíjī,"['sui', 'ji']","[2, 1]","['random', 'stochastic', 'pragmatic']",[0.0]
+调查,动词,diàochá,"['diao', 'cha']","[4, 2]","['investigate', 'inquire', 'look into', 'survey', 'inquiry']",[0.0]
+显示,动词,xiǎnshì,"['xian', 'shi']","[3, 4]","['show', 'display', 'demonstrate', 'manifest']","[0.0, 0.0]"
+显示,名词,xiǎnshì,"['xian', 'shi']","[3, 4]","['show', 'indication', 'demonstration']",[0.0]
+地球村,短语,dìqíucūn,"['di', 'qiu', 'cun']","[4, 2, 1]",['global village'],[0.0]
+时尚,名词,shíshàng,"['shi', 'shang']","[2, 4]","['fashion', 'fad']","[0.0, 1.0]"
+时尚,形容词,shíshàng,"['shi', 'shang']","[2, 4]","['fashionable', 'trendy']",[0.0]
+并非,副词,bìngfēi,"['bing', 'fei']","[4, 1]","['really isnt', 'isnt really', 'but not']","[0.0, 1.0]"
+打造,动词,dǎzào,"['da', 'zao']","[3, 4]","['create', 'build', 'develop', 'forge']",[0.0]
+名片,名词,míngpiàn,"['ming', 'pian']","[2, 4]","['business card', 'name card', 'card']","[0.0, 1.0]"
+单线,名词,dānxiàn,"['dan', 'xian']","[1, 4]","['single line', 'one way', 'single track']",[0.0]
+徐徐,副词,xúxú,"['xu', 'xu']","[2, 2]","['slowly', 'gently']","[0.0, 1.0]"
+蓝图,名词,lántú,"['lan', 'tu']","[2, 2]",['blueprint'],"[0.0, 0.0]"
+轨道,名词,guǐdào,"['gui', 'dao']","[3, 4]","['orbit', 'trajectory', 'track', 'proper course']",[0.0]
+展开,动词,zhǎnkāi,"['zhan', 'kai']","[3, 1]","['carry out', 'unfold', 'in full swing', 'in full swing', 'launch', 'open up']","[0.0, 0.0, 0.0, 1.0, 1.0, 1.0]"
+首选,动词,shǒuxuǎn,"['shou', 'xuan']","[3, 3]","['to chose one', 'prefer']","[0.0, 0.0, 0.0, 1.0, 1.0, 1.0]"
+首选,名词,shǒuxuǎn,"['shou', 'xuan']","[3, 3]","['first choice', 'preference', 'premium']",[0.0]
+促进,动词,cùjìn,"['cu', 'jin']","[4, 4]","['promote', 'advance', 'accelerate', 'boost', 'enhance']","[0.0, 0.0, 0.0, 1.0, 1.0, 1.0]"
+截至,动词,jiézhì,"['jie', 'zhi']","[2, 4]","['up to', 'by a time', 'by', 'so far']","[0.0, 0.0, 0.0, 1.0, 1.0, 1.0]"
+累计,动词,lěijì,"['lei', 'ji']","[3, 4]","['in total', 'add up', 'accumulated', 'total']","[0.0, 0.0, 0.0, 1.0, 1.0, 1.0]"
+运行,动词,yùnxíng,"['yun', 'xing']","[4, 2]","['move', 'be in motion', 'operate', 'function', 'run computer']","[0.0, 0.0, 0.0, 1.0, 1.0, 1.0]"
+里程,名词,lǐchéng,"['li', 'cheng']","[3, 2]","['mileage', 'course']",[0.0]难受,形容词,nánshòu,"['nan', 'shou']","[2, 4]","['feel unwell', 'feel uneasy', 'sorry', 'unhappy', 'in pain']",[0.0]

@@ -1,0 +1,3152 @@
+[
+    {
+        "morpheme": "喜欢",
+        "grammar": "动词",
+        "unicode": "xǐhuān",
+        "pinyin": "['xi', 'huan']",
+        "tone": [
+            3,
+            1
+        ],
+        "eng_sig": "['like', 'to like']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "老师",
+        "grammar": "名词",
+        "unicode": "lǎoshī",
+        "pinyin": "['lao', 'shi']",
+        "tone": [
+            3,
+            1
+        ],
+        "eng_sig": "['teacher']",
+        "score": [
+            0.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "容易",
+        "grammar": "形容词",
+        "unicode": "róngyì ",
+        "pinyin": "['rong', 'yi']",
+        "tone": [
+            2,
+            4
+        ],
+        "eng_sig": "['easy', 'likely', 'liable']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "现金",
+        "grammar": "名词",
+        "unicode": "xiànjīn",
+        "pinyin": "['xian', 'jin']",
+        "tone": [
+            4,
+            1
+        ],
+        "eng_sig": "['cash', 'available money']",
+        "score": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "信用卡",
+        "grammar": "名词",
+        "unicode": "xìnyòngkǎ",
+        "pinyin": "['xin', 'yong', 'ka']",
+        "tone": [
+            4,
+            4,
+            3
+        ],
+        "eng_sig": "['credit card']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "眼睛",
+        "grammar": "名词",
+        "unicode": "yǎnjing",
+        "pinyin": "['yan', 'jing']",
+        "tone": [
+            3,
+            5
+        ],
+        "eng_sig": "['eye'， 'eyes']",
+        "score": [
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "眼镜",
+        "grammar": "名词",
+        "unicode": "yǎnjìng",
+        "pinyin": "['yan', 'jing']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['glasses', 'spectacles']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "日全食",
+        "grammar": "名词",
+        "unicode": "rìquánshí",
+        "pinyin": "['ri', 'quan', 'shi']",
+        "tone": [
+            4,
+            2,
+            2
+        ],
+        "eng_sig": "['total solar eclipse', 'solar eclipse']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "根据",
+        "grammar": "名词",
+        "unicode": "gēnjù",
+        "pinyin": "['gen', 'ju']",
+        "tone": [
+            1,
+            4
+        ],
+        "eng_sig": "['basis', 'grounds', 'foundation']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "根据",
+        "grammar": "代词",
+        "unicode": "gēnjù",
+        "pinyin": "['gen', 'ju']",
+        "tone": [
+            1,
+            4
+        ],
+        "eng_sig": "['according to', 'on the basis of', 'in line with']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "危险",
+        "grammar": "动词",
+        "unicode": "wēixiǎn",
+        "pinyin": "['wei', 'xian']",
+        "tone": [
+            1,
+            3
+        ],
+        "eng_sig": "['dangerous', 'perilous']",
+        "score": [
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "缺乏",
+        "grammar": "动词",
+        "unicode": "quēfá",
+        "pinyin": "['que', 'fa']",
+        "tone": [
+            1,
+            2
+        ],
+        "eng_sig": "['to be short of', 'to lack']",
+        "score": [
+            0.0,
+            1.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "大约",
+        "grammar": "副词",
+        "unicode": "dàyuē",
+        "pinyin": "['da', 'yue']",
+        "tone": [
+            4,
+            1
+        ],
+        "eng_sig": "['approximately', 'about']",
+        "score": [
+            0.0,
+            1.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "思考",
+        "grammar": "动词",
+        "unicode": "sīkǎo",
+        "pinyin": "['si', 'kao']",
+        "tone": [
+            1,
+            3
+        ],
+        "eng_sig": "['to think deeply', 'to reflect on', 'to meditate', 'to ponder over']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "计价",
+        "grammar": "动词",
+        "unicode": "jìjià",
+        "pinyin": "['ji', 'jia']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['to evaluate', 'to valuate']",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "瞌睡",
+        "grammar": "动词",
+        "unicode": "kēshuì",
+        "pinyin": "['ke', 'shui']",
+        "tone": [
+            1,
+            4
+        ],
+        "eng_sig": "['to feel sleepy', 'drowsy', 'to nap']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "其实",
+        "grammar": "副词",
+        "unicode": "qíshí",
+        "pinyin": "['qi', 'shi']",
+        "tone": [
+            2,
+            2
+        ],
+        "eng_sig": "['actually', 'in fact', 'as a matter of fact']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "心脏",
+        "grammar": "名词",
+        "unicode": "xīnzàng",
+        "pinyin": "['xin', 'zang']",
+        "tone": [
+            1,
+            4
+        ],
+        "eng_sig": "['heart']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "内脏",
+        "grammar": "名词",
+        "unicode": "nèizàng",
+        "pinyin": "['nei', 'zang']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['internal organs', 'viscera']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "以前",
+        "grammar": "名词",
+        "unicode": "yǐqián",
+        "pinyin": "['yi', 'qian']",
+        "tone": [
+            3,
+            2
+        ],
+        "eng_sig": "['before', 'formerly', 'previously']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "计划",
+        "grammar": "名词",
+        "unicode": "jìhuà",
+        "pinyin": "['ji', 'hua']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['plan', 'project', 'program']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "计划",
+        "grammar": "动词",
+        "unicode": "jìhuà",
+        "pinyin": "['ji', 'hua']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['map out', 'to plan']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "风险",
+        "grammar": "名词",
+        "unicode": "fēngxiǎn",
+        "pinyin": "['feng', 'xian']",
+        "tone": [
+            1,
+            3
+        ],
+        "eng_sig": "['risk', 'hazard']",
+        "score": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "肉眼",
+        "grammar": "名词",
+        "unicode": "ròuyǎn",
+        "pinyin": "['rou', 'yan']",
+        "tone": [
+            4,
+            3
+        ],
+        "eng_sig": "['naked eye']",
+        "score": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "肉体",
+        "grammar": "名词",
+        "unicode": "ròutǐ",
+        "pinyin": "['rou', 'ti']",
+        "tone": [
+            4,
+            3
+        ],
+        "eng_sig": "['human body', 'physical body', 'flesh']",
+        "score": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "地球",
+        "grammar": "名词",
+        "unicode": "dìqíu",
+        "pinyin": "['di', 'qiu']",
+        "tone": [
+            4,
+            2
+        ],
+        "eng_sig": "['the earth', 'the globe']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "细胞",
+        "grammar": "名词",
+        "unicode": "xìbāo",
+        "pinyin": "['xi', 'bao']",
+        "tone": [
+            4,
+            1
+        ],
+        "eng_sig": "['cell']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "泡",
+        "grammar": "名词",
+        "unicode": "pào",
+        "pinyin": "['pao']",
+        "tone": [
+            4
+        ],
+        "eng_sig": "['bubble']",
+        "score": [
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "泡",
+        "grammar": "动词",
+        "unicode": "pào",
+        "pinyin": "['pao']",
+        "tone": [
+            4
+        ],
+        "eng_sig": "['steep', 'soak']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "黄体期",
+        "grammar": "名词",
+        "unicode": "huángtǐqī",
+        "pinyin": "['huang', 'ti', 'qi']",
+        "tone": [
+            2,
+            3,
+            1
+        ],
+        "eng_sig": "['luteal phase']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "师",
+        "grammar": "名词",
+        "unicode": "shī",
+        "pinyin": "['shi']",
+        "tone": [
+            1
+        ],
+        "eng_sig": "['teacher', 'tutor', 'master', 'division']",
+        "score": [
+            0.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "师",
+        "grammar": "动词",
+        "unicode": "shī",
+        "pinyin": "['shi']",
+        "tone": [
+            1
+        ],
+        "eng_sig": "['learn', 'imitate']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "厨师",
+        "grammar": "名词",
+        "unicode": "chúshī",
+        "pinyin": "['chu', 'shi']",
+        "tone": [
+            2,
+            1
+        ],
+        "eng_sig": "['cook', 'chef']",
+        "score": [
+            0.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "碱性",
+        "grammar": "名词",
+        "unicode": "jiǎnxìng",
+        "pinyin": "['jian', 'xing']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['basicity', 'alkalinity']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "离子",
+        "grammar": "名词",
+        "unicode": "lízǐ",
+        "pinyin": "['li', 'zi']",
+        "tone": [
+            2,
+            3
+        ],
+        "eng_sig": "['ion']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "酸性",
+        "grammar": "名词",
+        "unicode": "suānxìng",
+        "pinyin": "['suan', 'xing']",
+        "tone": [
+            1,
+            4
+        ],
+        "eng_sig": "['acidity']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "蛋白",
+        "grammar": "名词",
+        "unicode": "dànbái",
+        "pinyin": "['dan', 'bai']",
+        "tone": [
+            4,
+            2
+        ],
+        "eng_sig": "['egg white', 'protien']",
+        "score": [
+            0.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "书面语",
+        "grammar": "动词",
+        "unicode": "shūmiànyǔ",
+        "pinyin": "['shu', 'mian', 'yu']",
+        "tone": [
+            1,
+            4,
+            3
+        ],
+        "eng_sig": "['written language']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "口语",
+        "grammar": "名词",
+        "unicode": "kǒuyǔ",
+        "pinyin": "['kou', 'yu']",
+        "tone": [
+            3,
+            3
+        ],
+        "eng_sig": "['spoken language']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "能力",
+        "grammar": "名词",
+        "unicode": "nénglì",
+        "pinyin": "['neng', 'li']",
+        "tone": [
+            2,
+            4
+        ],
+        "eng_sig": "['ability', 'capacity', 'capability']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "强",
+        "grammar": "形容词",
+        "unicode": "qiáng",
+        "pinyin": "['qiang']",
+        "tone": [
+            2
+        ],
+        "eng_sig": "['strong', 'powerful', 'superior']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "强",
+        "grammar": "副词",
+        "unicode": "qiáng",
+        "pinyin": "['qiang']",
+        "tone": [
+            2
+        ],
+        "eng_sig": "['by force', 'slighly more than']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "强",
+        "grammar": "动词",
+        "unicode": "qiáng",
+        "pinyin": "['qiang']",
+        "tone": [
+            2
+        ],
+        "eng_sig": "['strengthen', 'make strong']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "弱",
+        "grammar": "形容词",
+        "unicode": "ruò",
+        "pinyin": "['ruo']",
+        "tone": [
+            4
+        ],
+        "eng_sig": "['weak', 'feeble', 'inferior']",
+        "score": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "柔心弱骨",
+        "grammar": "成语",
+        "unicode": "róuxīnruǒgù",
+        "pinyin": "['rou', 'xin', 'ruo', 'gu']",
+        "tone": [
+            2,
+            1,
+            3,
+            4
+        ],
+        "eng_sig": "['soft heart and weak bone', 'soft', 'mild', 'meek']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "大夫",
+        "grammar": "名词",
+        "unicode": "dàifu",
+        "pinyin": "['dai', 'fu']",
+        "tone": [
+            4,
+            5
+        ],
+        "eng_sig": "['doctor', 'physician']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "亭亭玉立",
+        "grammar": "成语",
+        "unicode": "tíngtíngyùlì",
+        "pinyin": "['ting', 'ting', 'yu', 'li']",
+        "tone": [
+            2,
+            2,
+            4,
+            4
+        ],
+        "eng_sig": "['beauty and grace of fem', 'slender elegance of fem', 'tall and straight of tree']",
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "表姐",
+        "grammar": "名词",
+        "unicode": "biǎojiě",
+        "pinyin": "['biao', 'jie']",
+        "tone": [
+            3,
+            3
+        ],
+        "eng_sig": "['fem cousin', 'older fem cousin', 'not fathers brothers daughter']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "表哥",
+        "grammar": "名词",
+        "unicode": "biǎogē",
+        "pinyin": "['biao', 'ge']",
+        "tone": [
+            3,
+            1
+        ],
+        "eng_sig": "['masc cousin', 'older masc cousin', 'not fathers brothers son']",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "酒保",
+        "grammar": "名词",
+        "unicode": "jǐubǎo",
+        "pinyin": "['jiu', 'bao']",
+        "tone": [
+            3,
+            3
+        ],
+        "eng_sig": "['bartender']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "尽管",
+        "grammar": "副词",
+        "unicode": "jǐnguǎn",
+        "pinyin": "['jin', 'guan']",
+        "tone": [
+            3,
+            3
+        ],
+        "eng_sig": "['to not hesitate', 'feel free to', 'without hesitating']",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "尽管",
+        "grammar": "连词",
+        "unicode": "jǐnguǎn",
+        "pinyin": "['jin', 'guan']",
+        "tone": [
+            3,
+            3
+        ],
+        "eng_sig": "['though', 'even though', 'despite']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "撒娇",
+        "grammar": "动词",
+        "unicode": "sājiāo",
+        "pinyin": "['sa', 'jiao']",
+        "tone": [
+            1,
+            1
+        ],
+        "eng_sig": "['to act coquettishly', 'to act spoiled', 'to throw a tantrum']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "应该",
+        "grammar": "助动词",
+        "unicode": "yīnggāi",
+        "pinyin": "['ying', 'gai']",
+        "tone": [
+            1,
+            1
+        ],
+        "eng_sig": "['should', 'ought to', 'must']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "行",
+        "grammar": "名词",
+        "unicode": "xíng",
+        "pinyin": "['xing']",
+        "tone": [
+            2
+        ],
+        "eng_sig": "['behavior', 'conduct']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "行",
+        "grammar": "动词",
+        "unicode": "xíng",
+        "pinyin": "['xing']",
+        "tone": [
+            2
+        ],
+        "eng_sig": "['to go', 'to walk', 'to travel']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "行",
+        "grammar": "副词",
+        "unicode": "xíng",
+        "pinyin": "['xing']",
+        "tone": [
+            2
+        ],
+        "eng_sig": "['soon']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "行",
+        "grammar": "形容词",
+        "unicode": "xíng",
+        "pinyin": "['xing']",
+        "tone": [
+            2
+        ],
+        "eng_sig": "['makeshift', 'temporary']",
+        "score": [
+            0.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "梦想",
+        "grammar": "名词",
+        "unicode": "mèngxiǎng",
+        "pinyin": "['meng', 'xiang']",
+        "tone": [
+            4,
+            3
+        ],
+        "eng_sig": "['vain hope', 'wishful thinking', 'fond dream']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "梦想",
+        "grammar": "动词",
+        "unicode": "mèngxiǎng",
+        "pinyin": "['meng', 'xiang']",
+        "tone": [
+            4,
+            3
+        ],
+        "eng_sig": "['vainly hope', 'dream of']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "哥哥",
+        "grammar": "名词",
+        "unicode": "gēge",
+        "pinyin": "['ge', 'ge']",
+        "tone": [
+            1,
+            5
+        ],
+        "eng_sig": "['older brother']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "吸引",
+        "grammar": "动词",
+        "unicode": "xīyǐn",
+        "pinyin": "['xi', 'yin']",
+        "tone": [
+            1,
+            3
+        ],
+        "eng_sig": "['to attract', 'to fascinate', 'to appeal to']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "垦丁",
+        "grammar": "名词",
+        "unicode": "kěndīng",
+        "pinyin": "['ken', 'ding']",
+        "tone": [
+            3,
+            1
+        ],
+        "eng_sig": "['taiwan national park']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "公告",
+        "grammar": "名词",
+        "unicode": "gōnggào",
+        "pinyin": "['gong', 'gao']",
+        "tone": [
+            1,
+            4
+        ],
+        "eng_sig": "['public notice', 'announcement', 'publication']",
+        "score": [
+            0.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "公告",
+        "grammar": "动词",
+        "unicode": "gōnggào",
+        "pinyin": "['gong', 'gao']",
+        "tone": [
+            1,
+            4
+        ],
+        "eng_sig": "['to post', 'to declare', 'announce']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "随便",
+        "grammar": "动词",
+        "unicode": "suíbiàn",
+        "pinyin": "['sui', 'bian']",
+        "tone": [
+            2,
+            4
+        ],
+        "eng_sig": "['do as one pleases']",
+        "score": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "随便",
+        "grammar": "形容词",
+        "unicode": "suíbiàn",
+        "pinyin": "['sui', 'bian']",
+        "tone": [
+            2,
+            4
+        ],
+        "eng_sig": "['casual', 'careless', 'arbitrary', 'random', 'informal']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "随便",
+        "grammar": "连词",
+        "unicode": "suíbiàn",
+        "pinyin": "['sui', 'bian']",
+        "tone": [
+            2,
+            4
+        ],
+        "eng_sig": "['anyhow', 'any']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "种",
+        "grammar": "动词",
+        "unicode": "zhòng",
+        "pinyin": "['zhong']",
+        "tone": [
+            4
+        ],
+        "eng_sig": "['to grow plants', 'to plant', 'to cultivate']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "蔬菜",
+        "grammar": "名词",
+        "unicode": "shūcài",
+        "pinyin": "['shu', 'cai']",
+        "tone": [
+            1,
+            4
+        ],
+        "eng_sig": "['vegetable', 'vegetables']",
+        "score": [
+            0.0,
+            1.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "农夫",
+        "grammar": "名词",
+        "unicode": "nóngfū",
+        "pinyin": "['nong', 'fu']",
+        "tone": [
+            2,
+            1
+        ],
+        "eng_sig": "['farmer']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "农药",
+        "grammar": "名词",
+        "unicode": "nóngyào",
+        "pinyin": "['nong', 'yao']",
+        "tone": [
+            2,
+            4
+        ],
+        "eng_sig": "['pesticide', 'agricultural chemical']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "天然",
+        "grammar": "形容词",
+        "unicode": "tiānrán",
+        "pinyin": "['tian', 'ran']",
+        "tone": [
+            1,
+            2
+        ],
+        "eng_sig": "['natural']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "地位",
+        "grammar": "名词",
+        "unicode": "dìwèi",
+        "pinyin": "['di', 'wei']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['status', 'position', 'standing']",
+        "score": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "观光",
+        "grammar": "动词",
+        "unicode": "guānguāng",
+        "pinyin": "['guan', 'guang']",
+        "tone": [
+            1,
+            1
+        ],
+        "eng_sig": "['go sightseeing', 'to visit', 'tour']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "亲",
+        "grammar": "名词",
+        "unicode": "qīn",
+        "pinyin": "['qin']",
+        "tone": [
+            1
+        ],
+        "eng_sig": "['parent', 'relative', 'marraige']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "亲",
+        "grammar": "动词",
+        "unicode": "qīn",
+        "pinyin": "['qin']",
+        "tone": [
+            1
+        ],
+        "eng_sig": "['kiss', 'in favor of']",
+        "score": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "亲",
+        "grammar": "形容词",
+        "unicode": "qīn",
+        "pinyin": "['qin']",
+        "tone": [
+            1
+        ],
+        "eng_sig": "['close', 'intimate', 'related']",
+        "score": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "过世",
+        "grammar": "动词",
+        "unicode": "guòshì",
+        "pinyin": "['guo', 'shi']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['to pass away', 'to die', 'die']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "孤单",
+        "grammar": "形容词",
+        "unicode": "gūdān",
+        "pinyin": "['gu', 'dan']",
+        "tone": [
+            1,
+            1
+        ],
+        "eng_sig": "['alone', 'lonely', 'weak']",
+        "score": [
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "洗澡",
+        "grammar": "动词",
+        "unicode": "xǐzǎo",
+        "pinyin": "['xi', 'zao']",
+        "tone": [
+            3,
+            3
+        ],
+        "eng_sig": "['to take a bath', 'to bathe', 'to take a shower']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "分手",
+        "grammar": "动词",
+        "unicode": "fēnshǒu",
+        "pinyin": "['fen', 'shou']",
+        "tone": [
+            1,
+            3
+        ],
+        "eng_sig": "['to say goodbye', 'to break up', 'break up']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "十分",
+        "grammar": "形容词",
+        "unicode": "shífēn",
+        "pinyin": "['shi', 'fen']",
+        "tone": [
+            2,
+            1
+        ],
+        "eng_sig": "['100 percent', 'absolute', 'absolutely', 'entirely']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "十分",
+        "grammar": "副词",
+        "unicode": "shífēn",
+        "pinyin": "['shi', 'fen']",
+        "tone": [
+            2,
+            1
+        ],
+        "eng_sig": "['very', 'fully', 'utterly', 'extremely', 'absolutely']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "接受",
+        "grammar": "动词",
+        "unicode": "jiēshòu",
+        "pinyin": "['jie', 'shou']",
+        "tone": [
+            1,
+            4
+        ],
+        "eng_sig": "['accept', 'to accept']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "复习",
+        "grammar": "动词",
+        "unicode": "fùxí",
+        "pinyin": "['fu', 'xi']",
+        "tone": [
+            4,
+            2
+        ],
+        "eng_sig": "['review', 'to review', 'revise', 'to revise']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "举重",
+        "grammar": "名词",
+        "unicode": "jǔzhòng",
+        "pinyin": "['ju', 'zhong']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['to lift weights', 'weight lifting', 'lift weights']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "由于",
+        "grammar": "介词",
+        "unicode": "yóuyú",
+        "pinyin": "['you', 'yu']",
+        "tone": [
+            2,
+            2
+        ],
+        "eng_sig": "['due to', 'thanks to', 'because of', 'as a result of']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "由于",
+        "grammar": "连词",
+        "unicode": "yóuyú",
+        "pinyin": "['you', 'yu']",
+        "tone": [
+            2,
+            2
+        ],
+        "eng_sig": "['because', 'since']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "观点",
+        "grammar": "名词",
+        "unicode": "guāndiǎn",
+        "pinyin": "['guan', 'dian']",
+        "tone": [
+            1,
+            3
+        ],
+        "eng_sig": "['perspective', 'point of view', 'viewpoint', 'standpoint']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "执行",
+        "grammar": "动词",
+        "unicode": "zhíxíng",
+        "pinyin": "['zhi', 'xing']",
+        "tone": [
+            2,
+            2
+        ],
+        "eng_sig": "['to carry out', 'carry out', 'execute', 'implement', 'to execute', 'to implement']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "给予",
+        "grammar": "动词",
+        "unicode": "jǐyǔ",
+        "pinyin": "['ji', 'yu']",
+        "tone": [
+            3,
+            3
+        ],
+        "eng_sig": "['to give', 'give', 'to offer', 'render']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "反思",
+        "grammar": "动词",
+        "unicode": "fǎnsī",
+        "pinyin": "['fan', 'si']",
+        "tone": [
+            3,
+            1
+        ],
+        "eng_sig": "['to review', 'to reflect', 'reflect', 'introspect']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "世纪",
+        "grammar": "名词",
+        "unicode": "shìjì",
+        "pinyin": "['shi', 'ji']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['century']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "羡慕",
+        "grammar": "动词",
+        "unicode": "xiànmù",
+        "pinyin": "['xian', 'mu']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['admire', 'envy', 'to admire', 'to envy']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "白水",
+        "grammar": "名词",
+        "unicode": "báishuǐ",
+        "pinyin": "['bai', 'shui']",
+        "tone": [
+            2,
+            3
+        ],
+        "eng_sig": "['clean water', 'plain water']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "特性",
+        "grammar": "名词",
+        "unicode": "tèxìng",
+        "pinyin": "['te', 'xing']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['specific property', 'characteristic', 'property']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "产品",
+        "grammar": "名词",
+        "unicode": "chǎnpǐn",
+        "pinyin": "['chan', 'pin']",
+        "tone": [
+            3,
+            3
+        ],
+        "eng_sig": "['product', 'products', 'produce', 'goods', 'merchandise']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "成分",
+        "grammar": "名词",
+        "unicode": "chéngfèn",
+        "pinyin": "['cheng', 'fen']",
+        "tone": [
+            2,
+            4
+        ],
+        "eng_sig": "['composition', 'component', 'part', 'ingredient', 'element', 'social status']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "耳环",
+        "grammar": "名词",
+        "unicode": "ěrhuán",
+        "pinyin": "['er', 'huan']",
+        "tone": [
+            3,
+            2
+        ],
+        "eng_sig": "['earrings', 'earring']",
+        "score": [
+            0.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "耳压",
+        "grammar": "名词",
+        "unicode": "ěryā",
+        "pinyin": "['er', 'ya']",
+        "tone": [
+            3,
+            1
+        ],
+        "eng_sig": "['ear pressure']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "居然",
+        "grammar": "副词",
+        "unicode": "jūrán",
+        "pinyin": "['ju', 'ran']",
+        "tone": [
+            1,
+            2
+        ],
+        "eng_sig": "['unexpectedly', 'actually', 'to ones surprise', 'to go as far as to']",
+        "score": [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "想象",
+        "grammar": "名词",
+        "unicode": "xiǎngxiàng",
+        "pinyin": "['xiang', 'xiang']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['imagination']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "想象",
+        "grammar": "动词",
+        "unicode": "xiǎngxiàng",
+        "pinyin": "['xiang', 'xiang']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['imagine', 'to imagine', 'visualize', 'to visualize', 'to envision']",
+        "score": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "落伍",
+        "grammar": "动词",
+        "unicode": "luòwǔ",
+        "pinyin": "['luo', 'wu']",
+        "tone": [
+            4,
+            3
+        ],
+        "eng_sig": "['fall behind', 'drop out', 'to fall behind', 'straggle', 'to be outdated']",
+        "score": [
+            0.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "步步高升",
+        "grammar": "成语",
+        "unicode": "bùbùgāoshēng",
+        "pinyin": "['bu', 'bu', 'gao', 'sheng']",
+        "tone": [
+            4,
+            4,
+            1,
+            1
+        ],
+        "eng_sig": "['to climb step by step', 'to rise steadily', 'up and up', 'onward and upward']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "之类",
+        "grammar": "成语",
+        "unicode": "zhīlèi",
+        "pinyin": "['zhi', 'lei']",
+        "tone": [
+            1,
+            4
+        ],
+        "eng_sig": "['and so on', 'and such', 'or something', 'like that']",
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "技巧",
+        "grammar": "名词",
+        "unicode": "jìqiǎo",
+        "pinyin": "['ji', 'qiao']",
+        "tone": [
+            4,
+            3
+        ],
+        "eng_sig": "['skill']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "动词",
+        "grammar": "名词",
+        "unicode": "dòngcí",
+        "pinyin": "['dong', 'ci']",
+        "tone": [
+            4,
+            2
+        ],
+        "eng_sig": "['verb']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "保持",
+        "grammar": "动词",
+        "unicode": "bǎochí",
+        "pinyin": "['bao', 'chi']",
+        "tone": [
+            3,
+            2
+        ],
+        "eng_sig": "['to maintain', 'to preserve', 'to keep', 'preserve', 'keep']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "出口",
+        "grammar": "动词",
+        "unicode": "chūkǒu",
+        "pinyin": "['chu', 'kou']",
+        "tone": [
+            1,
+            3
+        ],
+        "eng_sig": "['to speak', 'speak', 'utter', 'to export', 'export']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "出口",
+        "grammar": "名词",
+        "unicode": "chūkǒu",
+        "pinyin": "['chu', 'kou']",
+        "tone": [
+            1,
+            3
+        ],
+        "eng_sig": "['exit', 'an exit']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "星巴克",
+        "grammar": "专名词",
+        "unicode": "xīngbākè",
+        "pinyin": "['xing', 'ba', 'ke']",
+        "tone": [
+            1,
+            1,
+            4
+        ],
+        "eng_sig": "['starbucks', 'starbucks']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "草莓",
+        "grammar": "名词",
+        "unicode": "cǎoméi",
+        "pinyin": "['cao', 'mei']",
+        "tone": [
+            3,
+            2
+        ],
+        "eng_sig": "['strawberry']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "保时捷",
+        "grammar": "专名词",
+        "unicode": "bǎoshíjié",
+        "pinyin": "['bao', 'shi', 'jie']",
+        "tone": [
+            3,
+            2,
+            2
+        ],
+        "eng_sig": "['porshe', 'porsche']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "设计",
+        "grammar": "动词",
+        "unicode": "shèjì",
+        "pinyin": "['she', 'ji']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['design', 'to design', 'plan', 'to plan']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "概念",
+        "grammar": "名词",
+        "unicode": "gàiniàn",
+        "pinyin": "['gai', 'nian']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['concept', 'notion', 'idea']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "代表",
+        "grammar": "名词",
+        "unicode": "dàibiǎo",
+        "pinyin": "['dai', 'biao']",
+        "tone": [
+            4,
+            3
+        ],
+        "eng_sig": "['deputy', 'representative', 'delegate']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "代表",
+        "grammar": "动词",
+        "unicode": "dàibiǎo",
+        "pinyin": "['dai', 'biao']",
+        "tone": [
+            4,
+            3
+        ],
+        "eng_sig": "['represent', 'to represent', 'to stand for']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "免费",
+        "grammar": "动词",
+        "unicode": "miǎnfèi",
+        "pinyin": "['mian', 'fei']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['free', 'free of charge', 'gratis', 'complimentary']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "厕所",
+        "grammar": "名词",
+        "unicode": "cèsuǒ",
+        "pinyin": "['ce', 'suo']",
+        "tone": [
+            4,
+            3
+        ],
+        "eng_sig": "['bathroom', 'toilet', 'restroom']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "扶梯",
+        "grammar": "名词",
+        "unicode": "fútī",
+        "pinyin": "['fu', 'ti']",
+        "tone": [
+            2,
+            1
+        ],
+        "eng_sig": "['staircase', 'ladder', 'escalator']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "电梯",
+        "grammar": "名词",
+        "unicode": "diàntī",
+        "pinyin": "['dian', 'ti']",
+        "tone": [
+            4,
+            1
+        ],
+        "eng_sig": "['elevator', 'lift']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "服务台",
+        "grammar": "动词",
+        "unicode": "fúwùtái",
+        "pinyin": "['fu', 'wu', 'tai']",
+        "tone": [
+            2,
+            4,
+            2
+        ],
+        "eng_sig": "['service desk', 'information desk', 'reception desk']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "售票口",
+        "grammar": "名词",
+        "unicode": "shòupiàokǒu",
+        "pinyin": "['shou', 'piao', 'kou']",
+        "tone": [
+            4,
+            4,
+            3
+        ],
+        "eng_sig": "['ticket window', 'ticket desk', 'selling ticket place']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "售票",
+        "grammar": "动词",
+        "unicode": "shòupiào",
+        "pinyin": "['shou', 'piao']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['to sell tickets', 'sell tickets']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "无障碍",
+        "grammar": "短语",
+        "unicode": "wúzhàngài",
+        "pinyin": "['wu', 'zhang', 'ai']",
+        "tone": [
+            2,
+            4,
+            4
+        ],
+        "eng_sig": "['barrier free', 'accessible']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "参观",
+        "grammar": "动词",
+        "unicode": "cānguān",
+        "pinyin": "['can', 'guan']",
+        "tone": [
+            1,
+            1
+        ],
+        "eng_sig": "['to visit', 'visit', 'look around', 'to tour']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "使用",
+        "grammar": "动词",
+        "unicode": "shǐyòng",
+        "pinyin": "['shi', 'yong']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['to use', 'use', 'employ', 'apply', 'to make use of', 'to employ']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "服务",
+        "grammar": "动词",
+        "unicode": "fúwù",
+        "pinyin": "['fu', 'wu']",
+        "tone": [
+            2,
+            4
+        ],
+        "eng_sig": "['to service', 'to serve', 'serve', 'service', 'to give service to']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "漫步",
+        "grammar": "动词",
+        "unicode": "mànbù",
+        "pinyin": "['man', 'bu']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['stroll', 'to stroll', 'to roam', 'roam', 'ramble']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "世外桃源",
+        "grammar": "成语",
+        "unicode": "shìwàitáoyuán",
+        "pinyin": "['shi', 'wai', 'tao', 'yuan']",
+        "tone": [
+            4,
+            4,
+            2,
+            2
+        ],
+        "eng_sig": "['utopia', 'animal land', 'land of peach plossoms', 'shangri la']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "水母",
+        "grammar": "名词",
+        "unicode": "shuǐmǔ",
+        "pinyin": "['shui', 'mu']",
+        "tone": [
+            3,
+            3
+        ],
+        "eng_sig": "['jellyfish', 'medusa']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "互动",
+        "grammar": "动词",
+        "unicode": "hùdòng",
+        "pinyin": "['hu', 'dong']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['to interact', 'interact', 'interactive']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "展区",
+        "grammar": "名词",
+        "unicode": "zhǎnqū",
+        "pinyin": "['zhan', 'qu']",
+        "tone": [
+            3,
+            1
+        ],
+        "eng_sig": "['exhibit', 'display zone', 'section']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "空间",
+        "grammar": "名词",
+        "unicode": "kōngjiān",
+        "pinyin": "['kong', 'jian']",
+        "tone": [
+            1,
+            1
+        ],
+        "eng_sig": "['space', 'room', 'outer space', 'dimensions']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "平行",
+        "grammar": "形容词",
+        "unicode": "píngxíng",
+        "pinyin": "['ping', 'xing']",
+        "tone": [
+            2,
+            2
+        ],
+        "eng_sig": "['parallel', 'of equal rank', 'equal footing', 'simultaneous']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "世界",
+        "grammar": "名词",
+        "unicode": "shìjiè",
+        "pinyin": "['shi', 'jie']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['all over the world', 'the world', 'world', 'universe']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "科技",
+        "grammar": "名词",
+        "unicode": "kējì",
+        "pinyin": "['ke', 'ji']",
+        "tone": [
+            1,
+            4
+        ],
+        "eng_sig": "['science and technology', 'technology', 'tech']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "雨林",
+        "grammar": "名词",
+        "unicode": "yǔlín",
+        "pinyin": "['yu', 'lin']",
+        "tone": [
+            3,
+            2
+        ],
+        "eng_sig": "['rainforest']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "探险",
+        "grammar": "动词",
+        "unicode": "tànxiǎn",
+        "pinyin": "['tan', 'xian']",
+        "tone": [
+            4,
+            3
+        ],
+        "eng_sig": "['to explore', 'explore', 'adventure']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "美妙",
+        "grammar": "形容词",
+        "unicode": "měimiào",
+        "pinyin": "['mei', 'miao']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['beautiful', 'splendid', 'wonderful', 'fabulous']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "企鹅",
+        "grammar": "名词",
+        "unicode": "qíè",
+        "pinyin": "['qi', 'e']",
+        "tone": [
+            2,
+            4
+        ],
+        "eng_sig": "['penguin', 'penguins']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "探索",
+        "grammar": "动词",
+        "unicode": "tànsuǒ",
+        "pinyin": "['tan', 'suo']",
+        "tone": [
+            4,
+            3
+        ],
+        "eng_sig": "['to probe', 'probe', 'to explore', 'explore']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "关心",
+        "grammar": "动词",
+        "unicode": "guānxīn",
+        "pinyin": "['guan', 'xin']",
+        "tone": [
+            1,
+            1
+        ],
+        "eng_sig": "['concerned about', 'to care', 'care', 'care for', 'concerned']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "照顾",
+        "grammar": "动词",
+        "unicode": "zhàogu",
+        "pinyin": "['zhao', 'gu']",
+        "tone": [
+            4,
+            5
+        ],
+        "eng_sig": "['give consideration to', 'to look after', 'look after', 'care for', 'take care of', 'attend to']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "品种",
+        "grammar": "名词",
+        "unicode": "pǐnzhǒng",
+        "pinyin": "['pin', 'zhong']",
+        "tone": [
+            3,
+            3
+        ],
+        "eng_sig": "['breed', 'strain', 'variety', 'assortment']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "种类",
+        "grammar": "名词",
+        "unicode": "zhǒnglèi",
+        "pinyin": "['zhong', 'lei']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['kind', 'type', 'variety', 'genus', 'species']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "接近",
+        "grammar": "动词",
+        "unicode": "jiējìn",
+        "pinyin": "['jie', 'jin']",
+        "tone": [
+            1,
+            4
+        ],
+        "eng_sig": "['close to', 'near', 'to approach', 'to get close to']",
+        "score": [
+            0.0,
+            1.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "西瓜",
+        "grammar": "名词",
+        "unicode": "xīguā",
+        "pinyin": "['xi', 'gua']",
+        "tone": [
+            1,
+            1
+        ],
+        "eng_sig": "['watermelon']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "皮肤",
+        "grammar": "名词",
+        "unicode": "pífū",
+        "pinyin": "['pi', 'fu']",
+        "tone": [
+            2,
+            1
+        ],
+        "eng_sig": "['skin']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "皮肤",
+        "grammar": "形容词",
+        "unicode": "pífū",
+        "pinyin": "['pi', 'fu']",
+        "tone": [
+            2,
+            1
+        ],
+        "eng_sig": "['superficial', 'surface', 'surface level']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "研究",
+        "grammar": "动词",
+        "unicode": "yánjīu",
+        "pinyin": "['yan', 'jiu']",
+        "tone": [
+            2,
+            1
+        ],
+        "eng_sig": "['study', 'to study', 'research', 'to research']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "另外",
+        "grammar": "副词",
+        "unicode": "lìngwài",
+        "pinyin": "['ling', 'wai']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['in addition', 'besides', 'in place of']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "另外",
+        "grammar": "连词",
+        "unicode": "lìngwài",
+        "pinyin": "['ling', 'wai']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['in addition', 'besides', 'additionally']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "另外",
+        "grammar": "代词",
+        "unicode": "lìngwài",
+        "pinyin": "['ling', 'wai']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['different', 'other']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "孔庙",
+        "grammar": "名词",
+        "unicode": "kǒngmiào",
+        "pinyin": "['kong', 'miao']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['confucian temple']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "尽量",
+        "grammar": "副词",
+        "unicode": "jǐnliàng",
+        "pinyin": "['jin', 'liang']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['as much as possible', 'as far as possible', 'to the best of ones ability', 'to the greatest extent']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "恐怕",
+        "grammar": "动词",
+        "unicode": "kǒngpà",
+        "pinyin": "['kong', 'pa']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['to fear', 'fear', 'to dread', 'be afraid of']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "恐怕",
+        "grammar": "副词",
+        "unicode": "kǒngpà",
+        "pinyin": "['kong', 'pa']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['for fear of', 'perhaps', 'maybe', 'probably']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "稳定",
+        "grammar": "形容词",
+        "unicode": "wěndìng",
+        "pinyin": "['wen', 'ding']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['stable', 'steady', 'consistent']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "稳定",
+        "grammar": "动词",
+        "unicode": "wěndìng",
+        "pinyin": "['wen', 'ding']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['to stabilize', 'stabilize', 'steady', 'to pacify']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "重视",
+        "grammar": "动词",
+        "unicode": "zhòngshì",
+        "pinyin": "['zhong', 'shi']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['to value', 'value', 'to attach importance to', 'pay attention to', 'take seriously']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "大概",
+        "grammar": "形容词",
+        "unicode": "dàgài",
+        "pinyin": "['da', 'gai']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['general', 'rough', 'approximate', 'about']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "大概",
+        "grammar": "副词",
+        "unicode": "dàgài",
+        "pinyin": "['da', 'gai']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['generally', 'briefly', 'probably', 'most likely']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "大概",
+        "grammar": "名词",
+        "unicode": "dàgài",
+        "pinyin": "['da', 'gai']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['general idea', 'broad outline', 'broud idea', 'general outline']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "利润",
+        "grammar": "名词",
+        "unicode": "lìrùn",
+        "pinyin": "['li', 'run']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['profit', 'profits']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "对待",
+        "grammar": "动词",
+        "unicode": "duìdài",
+        "pinyin": "['dui', 'dai']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['treat', 'to treat', 'to approach', 'approach', 'to handle', 'handle', 'treatment']",
+        "score": [
+            0.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "友善",
+        "grammar": "形容词",
+        "unicode": "yǒushàn",
+        "pinyin": "['you', 'shan']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['friendly', 'amicable', 'warm']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "联系",
+        "grammar": "名词",
+        "unicode": "liánxì",
+        "pinyin": "['lian', 'xi']",
+        "tone": [
+            2,
+            4
+        ],
+        "eng_sig": "['contact', 'touch', 'connection', 'relations', 'contacts']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "联系",
+        "grammar": "动词",
+        "unicode": "liánxì",
+        "pinyin": "['lian', 'xi']",
+        "tone": [
+            2,
+            4
+        ],
+        "eng_sig": "['arrange', 'get in touch with', 'to arrange', 'to integrate']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "愉快",
+        "grammar": "形容词",
+        "unicode": "yúkuài",
+        "pinyin": "['yu', 'kuai']",
+        "tone": [
+            2,
+            4
+        ],
+        "eng_sig": "['happy', 'joyful', 'cheerful', 'pleasant', 'cheery']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "顺利",
+        "grammar": "形容词",
+        "unicode": "shùnlì",
+        "pinyin": "['shun', 'li']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['smooth', 'smoothly', 'sucsessful']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "制作",
+        "grammar": "动词",
+        "unicode": "zhìzuò",
+        "pinyin": "['zhi', 'zuo']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['to make', 'to manufacture', 'make', 'manufacture', 'produce']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "头帕",
+        "grammar": "名词",
+        "unicode": "tóupà",
+        "pinyin": "['tou', 'pa']",
+        "tone": [
+            2,
+            4
+        ],
+        "eng_sig": "['scarf', 'kercheif', 'headscarf']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "木头",
+        "grammar": "名词",
+        "unicode": "mùtou",
+        "pinyin": "['mu', 'tou']",
+        "tone": [
+            4,
+            5
+        ],
+        "eng_sig": "['wood', 'log', 'timber', 'wooden', 'blockhead']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "木头木脑",
+        "grammar": "成语",
+        "unicode": "mùtóumùnǎo",
+        "pinyin": "['mu', 'tou', 'mu', 'nao']",
+        "tone": [
+            4,
+            2,
+            4,
+            3
+        ],
+        "eng_sig": "['blockhead', 'wooden headed', 'slow', 'dumb', 'dull witted']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "永远",
+        "grammar": "副词",
+        "unicode": "yǒngyuǎn",
+        "pinyin": "['yong', 'yuan']",
+        "tone": [
+            3,
+            3
+        ],
+        "eng_sig": "['always', 'forever', 'ever']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "发生",
+        "grammar": "动词",
+        "unicode": "fāshēng",
+        "pinyin": "['fa', 'sheng']",
+        "tone": [
+            1,
+            1
+        ],
+        "eng_sig": "['to happen', 'happen', 'to occur', 'take place', 'occur']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "土豆",
+        "grammar": "名词",
+        "unicode": "tǔdòu",
+        "pinyin": "['tu', 'dou']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['potato', 'white potato', 'peanut']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "丝绸",
+        "grammar": "名词",
+        "unicode": "sīchóu",
+        "pinyin": "['si', 'chou']",
+        "tone": [
+            1,
+            2
+        ],
+        "eng_sig": "['silk', 'silk cloth']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "指南针",
+        "grammar": "名词",
+        "unicode": "zhǐnánzhēn",
+        "pinyin": "['zhi', 'nan', 'zhen']",
+        "tone": [
+            3,
+            2,
+            1
+        ],
+        "eng_sig": "['compass']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "火药",
+        "grammar": "名词",
+        "unicode": "huǒyào",
+        "pinyin": "['huo', 'yao']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['gunpowder', 'gun powder']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "造纸",
+        "grammar": "动词",
+        "unicode": "zàozhǐ",
+        "pinyin": "['zao', 'zhi']",
+        "tone": [
+            4,
+            3
+        ],
+        "eng_sig": "['papermaking', 'paper making']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "常态",
+        "grammar": "名词",
+        "unicode": "chángtài",
+        "pinyin": "['chang', 'tai']",
+        "tone": [
+            2,
+            4
+        ],
+        "eng_sig": "['normal state', 'normality', 'normal behaviour', 'normal']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "一马当先",
+        "grammar": "成语",
+        "unicode": "yīmǎdāngxiān",
+        "pinyin": "['yi', 'ma', 'dang', 'xian']",
+        "tone": [
+            1,
+            3,
+            1,
+            1
+        ],
+        "eng_sig": "['gallop ahead', 'take the lead', 'forefront']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "针对",
+        "grammar": "动词",
+        "unicode": "zhēnduì",
+        "pinyin": "['zhen', 'dui']",
+        "tone": [
+            1,
+            4
+        ],
+        "eng_sig": "['direct against', 'aim', 'countertargetfocus on']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "针对",
+        "grammar": "介词",
+        "unicode": "zhēnduì",
+        "pinyin": "['zhen', 'dui']",
+        "tone": [
+            1,
+            4
+        ],
+        "eng_sig": "['in light of', 'in accordance', 'connected with']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "随机",
+        "grammar": "副词",
+        "unicode": "suíjī",
+        "pinyin": "['sui', 'ji']",
+        "tone": [
+            2,
+            1
+        ],
+        "eng_sig": "['according to circumstance', 'according to situation', 'pragmatic']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "随机",
+        "grammar": "形容词",
+        "unicode": "suíjī",
+        "pinyin": "['sui', 'ji']",
+        "tone": [
+            2,
+            1
+        ],
+        "eng_sig": "['random', 'stochastic', 'pragmatic']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "调查",
+        "grammar": "动词",
+        "unicode": "diàochá",
+        "pinyin": "['diao', 'cha']",
+        "tone": [
+            4,
+            2
+        ],
+        "eng_sig": "['investigate', 'inquire', 'look into', 'survey', 'inquiry']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "显示",
+        "grammar": "动词",
+        "unicode": "xiǎnshì",
+        "pinyin": "['xian', 'shi']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['show', 'display', 'demonstrate', 'manifest']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "显示",
+        "grammar": "名词",
+        "unicode": "xiǎnshì",
+        "pinyin": "['xian', 'shi']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['show', 'indication', 'demonstration']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "地球村",
+        "grammar": "短语",
+        "unicode": "dìqíucūn",
+        "pinyin": "['di', 'qiu', 'cun']",
+        "tone": [
+            4,
+            2,
+            1
+        ],
+        "eng_sig": "['global village']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "时尚",
+        "grammar": "名词",
+        "unicode": "shíshàng",
+        "pinyin": "['shi', 'shang']",
+        "tone": [
+            2,
+            4
+        ],
+        "eng_sig": "['fashion', 'fad']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "时尚",
+        "grammar": "形容词",
+        "unicode": "shíshàng",
+        "pinyin": "['shi', 'shang']",
+        "tone": [
+            2,
+            4
+        ],
+        "eng_sig": "['fashionable', 'trendy']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "并非",
+        "grammar": "副词",
+        "unicode": "bìngfēi",
+        "pinyin": "['bing', 'fei']",
+        "tone": [
+            4,
+            1
+        ],
+        "eng_sig": "['really isnt', 'isnt really', 'but not']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "打造",
+        "grammar": "动词",
+        "unicode": "dǎzào",
+        "pinyin": "['da', 'zao']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['create', 'build', 'develop', 'forge']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "名片",
+        "grammar": "名词",
+        "unicode": "míngpiàn",
+        "pinyin": "['ming', 'pian']",
+        "tone": [
+            2,
+            4
+        ],
+        "eng_sig": "['business card', 'name card', 'card']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "单线",
+        "grammar": "名词",
+        "unicode": "dānxiàn",
+        "pinyin": "['dan', 'xian']",
+        "tone": [
+            1,
+            4
+        ],
+        "eng_sig": "['single line', 'one way', 'single track']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "徐徐",
+        "grammar": "副词",
+        "unicode": "xúxú",
+        "pinyin": "['xu', 'xu']",
+        "tone": [
+            2,
+            2
+        ],
+        "eng_sig": "['slowly', 'gently']",
+        "score": [
+            0.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "蓝图",
+        "grammar": "名词",
+        "unicode": "lántú",
+        "pinyin": "['lan', 'tu']",
+        "tone": [
+            2,
+            2
+        ],
+        "eng_sig": "['blueprint']",
+        "score": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "morpheme": "轨道",
+        "grammar": "名词",
+        "unicode": "guǐdào",
+        "pinyin": "['gui', 'dao']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['orbit', 'trajectory', 'track', 'proper course']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "展开",
+        "grammar": "动词",
+        "unicode": "zhǎnkāi",
+        "pinyin": "['zhan', 'kai']",
+        "tone": [
+            3,
+            1
+        ],
+        "eng_sig": "['carry out', 'unfold', 'in full swing', 'in full swing', 'launch', 'open up']",
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "首选",
+        "grammar": "动词",
+        "unicode": "shǒuxuǎn",
+        "pinyin": "['shou', 'xuan']",
+        "tone": [
+            3,
+            3
+        ],
+        "eng_sig": "['to chose one', 'prefer']",
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "首选",
+        "grammar": "名词",
+        "unicode": "shǒuxuǎn",
+        "pinyin": "['shou', 'xuan']",
+        "tone": [
+            3,
+            3
+        ],
+        "eng_sig": "['first choice', 'preference', 'premium']",
+        "score": [
+            0.0
+        ]
+    },
+    {
+        "morpheme": "促进",
+        "grammar": "动词",
+        "unicode": "cùjìn",
+        "pinyin": "['cu', 'jin']",
+        "tone": [
+            4,
+            4
+        ],
+        "eng_sig": "['promote', 'advance', 'accelerate', 'boost', 'enhance']",
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "截至",
+        "grammar": "动词",
+        "unicode": "jiézhì",
+        "pinyin": "['jie', 'zhi']",
+        "tone": [
+            2,
+            4
+        ],
+        "eng_sig": "['up to', 'by a time', 'by', 'so far']",
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "累计",
+        "grammar": "动词",
+        "unicode": "lěijì",
+        "pinyin": "['lei', 'ji']",
+        "tone": [
+            3,
+            4
+        ],
+        "eng_sig": "['in total', 'add up', 'accumulated', 'total']",
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "运行",
+        "grammar": "动词",
+        "unicode": "yùnxíng",
+        "pinyin": "['yun', 'xing']",
+        "tone": [
+            4,
+            2
+        ],
+        "eng_sig": "['move', 'be in motion', 'operate', 'function', 'run computer']",
+        "score": [
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "morpheme": "里程",
+        "grammar": "名词",
+        "unicode": "lǐchéng",
+        "pinyin": "['li', 'cheng']",
+        "tone": [
+            3,
+            2
+        ],
+        "eng_sig": "['mileage', 'course']",
+        "score": [
+            0.0
+        ]
+    }
+]
