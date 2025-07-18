@@ -350,7 +350,7 @@ def find_char(vowel: str, tone: int) -> str:
         'u': [363, 250, 468, 249],
         'v': [470, 472, 474, 476]
     }
-    base_ord = ord(vowel)
+    #base_ord = ord(vowel)
     if vowel in tones:
         if 1 <= tone <= 4:
             return chr(tones[vowel][tone - 1])
